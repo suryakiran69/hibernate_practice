@@ -7,9 +7,9 @@ public class App
     public static void main( String[] args )
     {
         alien a1 = new alien();
-        a1.setId(14);
-        a1.setName("alien4");
-        a1.setColor("Pink");
+        a1.setId(15);
+        a1.setName("Alien5");
+        a1.setColor("No color");
 
 
         Configuration config = new Configuration();
